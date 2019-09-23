@@ -1,4 +1,4 @@
-#### This is a TLC project where we were asked to generate a compiler using FLEX and YACC.
+## This is a TLC project where we were asked to generate a compiler using FLEX and YACC.
 
 ###  Task
 
